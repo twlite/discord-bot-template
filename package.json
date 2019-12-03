@@ -1,0 +1,25 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "A discord bot template",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/INEX07/bot-template.git"
+  },
+  "keywords": [
+    "discord-bot-template"
+  ],
+  "author": "INEX07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/INEX07/bot-template/issues"
+  },
+  "homepage": "https://github.com/INEX07/bot-template#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
